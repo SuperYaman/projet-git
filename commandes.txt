@@ -1,0 +1,131 @@
+1  git config --global color.diff auto
+    2  git config --global color.status auto
+    3  git config --global color.branch auto
+    4  git config --global user.name "SuperYaman"
+    5  git config --global user.email aimane.gaillet@gmail.com
+    6  cd/home/aiman
+    7  git init
+    8  exit
+    9  code .
+   10  exit
+   11  code .
+   12  git
+   13  pwd
+   14  ls
+   15  cd Mes\ documents/
+   16  ls
+   17  cd..
+   18  cd ..
+   19  ls
+   20  cd Documents/
+   21  ls
+   22  ls
+   23  cd ..
+   24  ls
+   25  cd Downloads/
+   26  ls
+   27  cd ..
+   28  ls
+   29  cd Documents/
+   30  ls
+   31  ls
+   32  cd Projets\ dev/
+   33  ls
+   34  cd ../
+   35  cd -
+   36  cd ../Formation\ DWWM/
+   37  ls
+   38  cd Bootstrap/
+   39  ls
+   40  cd Projet\ bootstrap
+   41  ls
+   42  git clone
+   43  git clone https://github.com/SuperYaman/Architec.git
+   44  LS
+   45  cd ..
+   46  ls
+   47  cd Architec/
+   48  git status
+   49  touch
+   50  touch .gitignore
+   51  git status
+   52  git status
+   53  history
+   54  history
+   55  git add .gitignore
+   56  git add index.html
+   57  git add .
+   58  git status
+   59  1 ajouter tous les fichier avec git add [fichier par fichier / .]
+   60  history
+   61  2 creer une version
+   62  git commit -m
+   63  git commit -m "premiere version avec les fichiers en anglais"
+   64  3 envoyer la version sur le serveur
+   65  git push
+   66  open .
+   67  ls
+   68  cd..
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd Projets\ dev/
+   76  ls
+   77  cd 3d\ anim2
+   78  git clone https://github.com/SuperYaman/3d_anim2.git
+   79  mv 3d_anim2/ ../
+   80  ls
+   81  mv * ../3d_anim2/
+   82  cd ../3d_anim2/
+   83  git status
+   84  git add .
+   85  git status
+   86  git commit -m 'premiere version art'
+   87  git push
+   88  cd ..
+   89  ms
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd Formation\ DWWM/
+   94  cd Bootstrap/
+   95  ls
+   96  cd Architec/
+   97  git status
+   98  git diff
+   99  git add index.html
+  100  git commit -m 'deuxieme version frere'
+  101  git push
+  102  exit
+  103  history
+  104  ls
+  105  ls
+  106  cd Maisons\ d\ hote/
+  107  status
+  108  history
+  109  ls
+  110  git clone https://github.com/SuperYaman/treeHouse.git
+  111  mv treeHouse/ ../
+  112  ls
+  113  mv * ../treeHouse/
+  114  cd ../treeHouse/
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit -m 'first version'
+  119  git push
+  120  exit
+  121  git --version
+  122  git config --global --list
+  123  git help
+  124  ls
+  125  cd Documents/
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd Mes\ documents/
+  130  ls
+  131  exit
